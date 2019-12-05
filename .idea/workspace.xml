@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe164852-91b5-4468-b2b8-b84c76abd338" name="Default Changelist" comment="initial commit of vue sample page with buefy">
+      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/TCManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/trading-cards-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/apple-touch-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/apple-touch-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/msapplication-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/registerServiceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-tsx.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/e2e/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/e2e/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/e2e/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/e2e/support/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/example.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lukas &lt;lftkv@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UYHSsYZRegkGkLStzjbwpDc1US" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\own\trading-cards-manager\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="D:\own\trading-cards-manager\node_modules\typescript\lib" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe164852-91b5-4468-b2b8-b84c76abd338" name="Default Changelist" comment="" />
+      <created>1575526611818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575526611818</updated>
+      <workItem from="1575526613355" duration="1851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit of vue sample page with buefy" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit of vue sample page with buefy" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="212" key="#Docker" timestamp="1575527316109">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="212" key="#Docker/0.30.1920.1050/1920.0.1920.1080/-1920.0.1920.1080@0.30.1920.1050" timestamp="1575527316109" />
+    <state x="552" y="213" key="#ESLint" timestamp="1575528476421">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#ESLint/0.30.1920.1050/1920.0.1920.1080/-1920.0.1920.1080@0.30.1920.1050" timestamp="1575528476421" />
+    <state x="552" y="213" key="#Port_bindings" timestamp="1575527627184">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#Port_bindings/0.30.1920.1050/1920.0.1920.1080/-1920.0.1920.1080@0.30.1920.1050" timestamp="1575527627184" />
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575527341915">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050/1920.0.1920.1080/-1920.0.1920.1080@0.30.1920.1050" timestamp="1575527341915" />
+    <state x="225" y="149" width="1600" height="812" key="CommitChangelistDialog2" timestamp="1575528436242">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="225" y="149" width="1600" height="812" key="CommitChangelistDialog2/0.30.1920.1050/1920.0.1920.1080/-1920.0.1920.1080@0.30.1920.1050" timestamp="1575528436242" />
+  </component>
+</project>
