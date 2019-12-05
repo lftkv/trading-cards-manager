@@ -1,0 +1,23 @@
+name: "[DOCKER] TournamentBot CI"
+
+on:
+  push:
+    branches:
+    - master
+    - release/*
+    - dev
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build the Docker image
+      run: docker build  --file Dockerfile --tag docker.pkg.github.com/lftkv/trading-cards-manager/moeller.tcmanager.ui:$(date +%s) --tag docker.pkg.github.com/lftkv/trading-cards-manager/moeller.tcmanager.ui:latest .
+    - name: Docker Registry Login
+      run: docker login docker.pkg.github.com --username lftkv --password ${{ secrets.GITHUB_TOKEN }}
+    - name: Push Docker Images
+      run: docker images --format "{{.Repository}}:{{.Tag}}" | grep "moeller" | xargs -n 1 docker push
+    - name: Docker Registry Logout
+      run: docker logout docker.pkg.github.com
